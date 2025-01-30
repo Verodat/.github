@@ -1,5 +1,3 @@
-# .github
-
 # Verodat Solutions
 
 Welcome to the official open-source repository of **Verodat**, an AI-driven data platform.  
