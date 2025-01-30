@@ -23,7 +23,7 @@ Verodat is built to to get your data AI ready allowing you to build production r
 ## Getting Started
 
 - **Explore Sample Projects**: (Comming Soon) Check out the [projects folder](./projects) to see real-world use cases.
-- **Try Our Tools**: Look under [scripts](./scripts) for helper utilities that can speed up your data processes.
+- **Try Our Tools**: Look under repositories for helper utilities that enable your AI-Tools to access verodat.
 - **Read the Docs**: (Planned) We’ll add full documentation soon. Stay tuned for detailed guides and tutorials!
 
 ## Project Structure
