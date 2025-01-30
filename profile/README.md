@@ -1,28 +1,47 @@
 # Verodat Solutions
 
-Welcome to the official open-source repository of **Verodat**, an AI-driven data platform.  
-Here, we share solutions, examples, and use cases built on Verodat to help you get started quickly.
+<p align="center">
+  <!-- Replace with your actual logo or image -->
+  <img src="https://verodat.com/wp-content/uploads/2024/07/logo-2.png" alt="Verodat Logo" width="200" />
+</p>
 
-## What’s Inside
-- **Sample Projects**: Real-world examples demonstrating how to leverage Verodat features.
-- **Scripts & Tools**: Helper scripts to automate data processes, analytics, or integration tasks.
-- **Documentation**: Guides on setup, usage, and best practices.
+<p align="center">
+  <strong>AI-driven data platform for advanced analytics, automation, and seamless data integration</strong>
+</p>
+
+<p align="center">
+  <a href="https://verodat.com">Website</a> •
+  <a href="https://github.com/Verodat/.github/discussions">Discussions</a> •
+  <a href="./CONTRIBUTING.md">Contributing</a> •
+  <a href="./LICENSE">License</a>
+</p>
+
+Verodat is built to to get your data AI ready allowing you to build production ready AI solutions.
+
+---
 
 ## Getting Started
-1. **Clone or Download** this repository.
-2. Follow the instructions in each project’s folder or README.
-3. Explore, experiment, and adapt the code to your needs!
+
+- **Explore Sample Projects**: (Comming Soon) Check out the [projects folder](./projects) to see real-world use cases.
+- **Try Our Tools**: Look under [scripts](./scripts) for helper utilities that can speed up your data processes.
+- **Read the Docs**: (Planned) We’ll add full documentation soon. Stay tuned for detailed guides and tutorials!
+
+## Project Structure
+
+- **projects/** – End-to-end examples showcasing Verodat features in action  
+- **scripts/** – Utility scripts for data ingestion, transformation, or integration  
+- **docs/** – Future home for comprehensive docs and references  
+- **CONTRIBUTING.md** – Guidelines for submitting issues, PRs, and feature requests  
+- **LICENSE** – License details (Apache 2.0)  
 
 ## Contributing
-We welcome contributions of all kinds—bug fixes, new examples, feature ideas, and more.  
-Check out our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
-## License
-All code in this organisation is released under the [Apache 2.0 License](./LICENSE).  
-Please review the license file for more details.
+We welcome contributions of all kinds—bug fixes, enhancements, and fresh ideas. Please see our [contributing guide](./CONTRIBUTING.md) to get started.  
 
-## Need Help?
-- **Open an Issue**: Let us know if you find bugs or have questions.
-- **Website**: Visit [verodat.com](https://verodat.com) for more info on the Verodat platform.
+Join the discussion in our [community forum](https://github.com/Verodat/.github/discussions) or open an issue if you have questions.
 
-Happy building with Verodat!
+## About
+
+Verodat Solutions is maintained by an open community of data practitioners. Visit [verodat.com](https://verodat.com) for more info on the platform, upcoming features, and enterprise solutions.
+
+Thanks for checking us out—and happy building with Verodat!
