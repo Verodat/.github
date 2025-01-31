@@ -24,6 +24,7 @@ Verodat is built to to get your data AI ready allowing you to build production r
 
 - **Explore Sample Projects**: (Comming Soon) Check out the [projects folder](./projects) to see real-world use cases.
 - **Try Our Tools**: Look under repositories for helper utilities that enable your AI-Tools to access verodat.
+  - [MCP Server](https://github.com/Verodat/verodat-mcp-server) 
 - **Read the Docs**: (Planned) We’ll add full documentation soon. Stay tuned for detailed guides and tutorials!
 
 ## Project Structure
